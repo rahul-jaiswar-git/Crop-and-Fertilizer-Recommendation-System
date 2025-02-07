@@ -7,7 +7,7 @@ The goal is to predict the type of crop to be recommended, and the type of ferti
 
 ## Authors
 
-- [@octokatherine]((https://github.com/rahul-jaiswar-git))
+- [Rahul Jaiswar]((https://github.com/rahul-jaiswar-git))
 
 
 ## Installation
@@ -21,7 +21,6 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot]
 <img width="900" alt="image" src="https://github.com/simran2097/Crop_and_Fertilizer_Recommandation_System/assets/47267975/95f6d9a2-6552-4de0-a757-025bbc00fe58">
 
 
@@ -35,11 +34,11 @@ Install my-project with npm
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+- Crop Recommendation – Uses machine learning algorithms to suggest the best crop for cultivation based on soil parameters like nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.
+- Fertilizer Recommendation – Suggests the most suitable fertilizer based on soil nutrient levels and crop requirements to improve yield.
+- User Input-Based Predictions – Allows users to input environmental and soil conditions through a user-friendly interface to get crop and fertilizer recommendations.
+- Data-Driven Insights – Utilizes a dataset of soil and climate conditions to train the model, ensuring accurate and region-specific recommendations.
+  
 ## About Internship 
 
 4-weeks Shell-Edunet Skills4Future Internship (Jan 2025 - Feb 2025)
